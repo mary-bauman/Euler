@@ -1,0 +1,11 @@
+i: 1, prev: 0, total: 0
+i: 2, prev: 1, total: 1
+i: 3, prev: 2, total: 3
+i: 4, prev: 5, total: 8
+i: 5, prev: 6, total: 14
+i: 6, prev: 12, total: 26
+i: 7, prev: 13, total: 39
+i: 8, prev: 20, total: 59
+i: 9, prev: 24, total: 83
+i: 10, prev: 32, total: 115
+115
