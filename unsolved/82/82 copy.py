@@ -1,6 +1,3 @@
-from math import inf
-
-
 size = 80
 size = 5
 
@@ -13,7 +10,8 @@ for line in f:
 #cannot go left
 #so we go from left to right
 
-cols = [inf] * size
+for col in range(1,size):
+    for row in range(1,size):
 
 
 
