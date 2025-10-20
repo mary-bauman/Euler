@@ -1,0 +1,25 @@
+Processing column 1
+dp beforehand: [131, 201, 630, 537, 805]
+After moving right: [804, 297, 1433, 1236, 1537]
+After moving down: [804, 297, 1100, 1236, 1537]
+After moving up: [804, 297, 1100, 1236, 1537]
+
+Processing column 2
+dp beforehand: [804, 297, 1100, 1236, 1537]
+After moving right: [1038, 639, 1846, 1733, 2061]
+After moving down: [1038, 639, 1385, 1733, 2061]
+After moving up: [873, 639, 1385, 1733, 2061]
+
+Processing column 3
+dp beforehand: [873, 639, 1385, 1733, 2061]
+After moving right: [976, 1604, 1807, 1854, 2098]
+After moving down: [976, 1604, 1807, 1854, 1891]
+After moving up: [976, 1604, 1807, 1854, 1891]
+
+Processing column 4
+dp beforehand: [976, 1604, 1807, 1854, 1891]
+After moving right: [994, 1754, 1918, 2810, 2222]
+After moving down: [994, 1144, 1255, 2211, 2222]
+After moving up: [994, 1144, 1255, 2211, 2222]
+
+994
